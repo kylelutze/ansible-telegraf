@@ -14,7 +14,7 @@ Installation
 Either clone this repository, or install through Ansible Galaxy directly using the command:
 
 ```
-ansible-galaxy install rossmcdonald.telegraf
+ansible-galaxy install kylelutze.telegraf
 ```
 
 Role Variables
