@@ -53,4 +53,5 @@ Author
 ------
 
 Created by [Ross McDonald](https://github.com/rossmcdonald).
+Updated by [Kyle Lutze](https://github.com/kylelutze).
 
